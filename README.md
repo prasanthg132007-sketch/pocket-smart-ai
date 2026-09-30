@@ -1,26 +1,38 @@
-# 🏋️ FitBuddy - AI Fitness & Meal Planner
+# 💰 Smart Pocket AI
 
-FitBuddy is a web-based fitness and meal planning application developed using **Python and Streamlit**.
+Smart Pocket AI is a personal finance assistant built using **Python and Streamlit**.
+
+## 📌 About the Project
+
+Smart Pocket AI helps users manage their money and understand their spending through a simple and interactive web application.
 
 ## ✨ Features
 
-- 🏋️ Personalized fitness planning
-- 🍎 Meal planning
-- 🎯 Fitness goal selection
-- 📊 User fitness information
-- 💪 Activity and experience level selection
-- 🌐 Interactive web interface
+- 💵 Manage income and expenses
+- 📊 Track spending
+- 🧮 Calculate financial information
+- 🤖 AI-powered assistance
+- 📈 Interactive Streamlit interface
+- 🖥️ Simple and user-friendly design
 
 ## 🛠️ Technologies Used
 
 - Python
 - Streamlit
+- Pandas
+- AI / Machine Learning
 
-## 🚀 How to Run
+## 📂 Project Files
+
+- `app.py` – Main Streamlit application
+- `requirements.txt` – Required Python packages
+- `README.md` – Project documentation
+
+## ⚙️ Installation
 
 Install the required packages:
 
 ```bash
 pip install -r requirements.txt
 
-Streamlit run app.py
+Streamlit app.py
